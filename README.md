@@ -29,6 +29,12 @@ Finally, n8n takes Gemini's list of bugs and automatically adds them as brand-ne
 
 ---
 
+## 🔗 Project Integration Overview
+
+For a detailed breakdown of how our **GitHub**, **Antigravity AI**, and **n8n** components work together, please refer to the [INTEGRATION_SUMMARY.md](INTEGRATION_SUMMARY.md) file.
+
+---
+
 ## 🛠️ How to Run It
 
 If you want to trigger this entire flow yourself, simply open your terminal, type this command, and press Enter:
